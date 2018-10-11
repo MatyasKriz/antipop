@@ -7,6 +7,10 @@
 //
 
 import Foundation
+import AppKit
 
-print("Hello, World!")
-
+let speech = NSSpeechSynthesizer(voice: nil)
+while true {
+    speech?.startSpeaking(" ")
+    sleep(10)
+}
