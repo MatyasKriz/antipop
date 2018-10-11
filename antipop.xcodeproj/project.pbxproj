@@ -41,7 +41,7 @@
 		0077F998216FD3DD008C0DE4 = {
 			isa = PBXGroup;
 			children = (
-				0077F9A3216FD3DE008C0DE4 /* antipop */,
+				0077F9A4216FD3DE008C0DE4 /* antipop.swift */,
 				0077F9A2216FD3DE008C0DE4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				0077F9A1216FD3DE008C0DE4 /* antipop */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		0077F9A3216FD3DE008C0DE4 /* antipop */ = {
-			isa = PBXGroup;
-			children = (
-				0077F9A4216FD3DE008C0DE4 /* antipop.swift */,
-			);
-			path = antipop;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

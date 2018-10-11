@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  antipop.swift
 //  antipop
 //
 //  Created by Matyáš Kříž on 11/10/2018.
