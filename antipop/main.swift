@@ -12,5 +12,5 @@ import AppKit
 let speech = NSSpeechSynthesizer(voice: nil)
 while true {
     speech?.startSpeaking(" ")
-    sleep(10)
+    sleep(15)
 }
