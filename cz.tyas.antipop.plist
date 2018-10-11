@@ -4,8 +4,8 @@
 <dict>
 <key>Label</key>
 <string>cz.tyas.antipop</string>
-<key>ProgramArguments</key>
-<string>/usr/bin/antipop</string>
+<key>Program</key>
+<string>/usr/local/bin/antipop</string>
 <key>RunAtLoad</key>
 <true/>
 </dict>
